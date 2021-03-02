@@ -36,6 +36,7 @@ hr {
   border-bottom: none;
   width:4%;
   margin: 100px auto;
+  text-align: center;
 }
 
 a {
@@ -51,7 +52,7 @@ a:hover{
   background-color: #1fab89;
   position: relative;
   padding-top: 100px;
-  padding-bottom:100px;
+  padding-bottom: 100px;
 }
 
 
@@ -104,6 +105,8 @@ margin:0;
 .WebDeveloper{
   width:25%;
   float:left;
+  margin-right:30px;
+  padding-bottom: 30px;
 }
 .contact-message{
   width:40%;
